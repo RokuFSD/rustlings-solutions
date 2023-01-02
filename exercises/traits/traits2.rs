@@ -1,7 +1,7 @@
 // traits2.rs
 //
 // Your task is to implement the trait
-// `AppendBar` for a vector of strings.
+// `AppendBar' for a vector of strings.
 //
 // To implement this trait, consider for
 // a moment what it means to 'append "Bar"'
@@ -17,7 +17,7 @@ trait AppendBar {
     fn append_bar(self) -> Self;
 }
 
-// TODO: Implement trait `AppendBar` for a vector of strings.
+//TODO: Add your code here
 
 #[cfg(test)]
 mod tests {
